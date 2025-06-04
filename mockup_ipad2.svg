@@ -1,0 +1,121 @@
+<svg id="Event" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1866.16" height="2436.053" viewBox="0 0 1866.16 2436.053">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#272727"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#121212"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" y2="0.164" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#35618f" stop-opacity="0.675"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_180" data-name="Rectangle 180" width="2277.642" height="1707.749" rx="14" transform="translate(1707.749) rotate(90)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_105" data-name="Rectangle 105" width="1716.405" height="2491.588" rx="143" fill="#fff"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1920 1080">
+      
+    </pattern>
+  </defs>
+  <g id="Group_1619" data-name="Group 1619" transform="translate(-1505.256 7946.328)">
+    <g id="iPad_Pro" data-name="iPad Pro" transform="translate(3371.416 -7946.328) rotate(90)">
+      <rect id="Shadow" width="2436.053" height="1866.16" rx="56" transform="translate(0 0)" fill="#fff"/>
+      <g id="iPad" transform="translate(0 0)">
+        <path id="Path_1468" data-name="Path 1468" d="M47.011,0H2389.042a47.011,47.011,0,0,1,47.011,47.011V1819.148a47.011,47.011,0,0,1-47.011,47.011H47.011A47.011,47.011,0,0,1,0,1819.148V47.011A47.011,47.011,0,0,1,47.011,0Z" transform="translate(0 0)" fill="#fff"/>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="2420.599" height="1850.705" rx="52" transform="translate(7.727 7.727)" fill="#141414"/>
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="2277.642" height="1707.749" rx="14" transform="translate(79.206 79.206)" fill="#fff"/>
+      </g>
+      <g id="Camera" transform="translate(27.046 797.851)">
+        <g id="Group_3" data-name="Group 3">
+          <circle id="Ellipse_3" data-name="Ellipse 3" cx="17.387" cy="17.387" r="17.387" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4" data-name="Ellipse 4" cx="15.455" cy="15.455" r="15.455" transform="translate(1.932 1.932)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(7.727 121.888)">
+          <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="9.477" cy="9.477" r="9.477" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="8.424" cy="8.424" r="8.424" transform="translate(1.053 1.053)" fill="url(#linear-gradient-2)"/>
+          <path id="Path_9" data-name="Path 9" d="M5.587.007C1.838-.2-.149,4.287.009,5.666S2.577,9.484,5.587,9.083a7.525,7.525,0,0,0,5.674-3.96C12.266,3.405,9.336.217,5.587.007Z" transform="translate(3.905 3.566)" fill="url(#linear-gradient-5)"/>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(0 175.798)">
+          <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="17.387" cy="17.387" r="17.387" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-3" data-name="Ellipse 4" cx="15.455" cy="15.455" r="15.455" transform="translate(1.932 1.932)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(5.796 237.392)">
+          <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="11.815" cy="11.815" r="11.815" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-4" data-name="Ellipse 4" cx="10.503" cy="10.503" r="10.503" transform="translate(1.313 1.313)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(13.523 74.799)">
+          <circle id="Ellipse_3-5" data-name="Ellipse 3" cx="4.407" cy="4.407" r="4.407" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-5" data-name="Ellipse 4" cx="3.917" cy="3.917" r="3.917" transform="translate(0.49 0.49)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_50" data-name="Group 50" transform="translate(1584.461 -7867.123)" >
+      <g id="Group_1623" data-name="Group 1623" transform="translate(0 -97.69)">
+        <g id="Group_1391" data-name="Group 1391" transform="translate(-3)">
+          <g id="Group_2" data-name="Group 2" transform="translate(0 -11)" >
+            <g id="Group_1537" data-name="Group 1537" transform="translate(2.548 1.594)">
+              <rect id="Rectangle_95" data-name="Rectangle 95" width="1713.857" height="2505.121" transform="translate(0 105.367)" fill="#fff"/>
+              <g id="Group_1637" data-name="Group 1637" transform="translate(0 -48.5)">
+                <text id="Zaterdag_31_aug._2024" data-name="Zaterdag, 31 aug. 2024" transform="translate(52.271 448.733)" fill="#121212" font-size="31" font-family="ArialMT, Arial"><tspan x="0" y="0" class="year">Zaterdag, 6 sep. {year}</tspan></text>
+                <path id="Icon_material-location-on" data-name="Icon material-location-on" d="M13.239,0A13.229,13.229,0,0,0,0,13.239c0,9.929,13.239,24.587,13.239,24.587S26.478,23.169,26.478,13.239A13.229,13.229,0,0,0,13.239,0Zm0,17.967a4.728,4.728,0,1,1,4.728-4.728A4.73,4.73,0,0,1,13.239,17.967Z" transform="translate(52.271 474.966)" fill="#121212"/>
+                <g id="Event_View_Titel" data-name="Event View Titel" transform="translate(51.992 328.112)">
+                  <text id="Groepsles" transform="translate(0 43)" fill="#040f1a" font-size="44" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+                </g>
+              </g>
+              <text id="_08:00" data-name="08:00" transform="translate(1499.189 404.084)" fill="#121212" font-size="64" font-family="ArialMT, Arial"><tspan x="0" y="0">08:00</tspan></text>
+              <text id="Event-2" data-name="Event" transform="translate(570.189 219.113)" fill="#fff" font-size="51" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-69.44" y="0">Event</tspan></text>
+              <path id="Icon_ionic-md-arrow-back" data-name="Icon ionic-md-arrow-back" d="M62.2,27.215H14.968L36.74,5.443,31.1,0,0,31.1,31.1,62.2l5.442-5.443L14.968,34.99H62.2Z" transform="translate(51.989 178.055)" fill="#fff"/>
+              <path id="Icon_material-edit" data-name="Icon material-edit" d="M0,38.2V48.249H10.051L39.693,18.607,29.642,8.556ZM47.465,10.834a2.669,2.669,0,0,0,0-3.779L41.194.784a2.669,2.669,0,0,0-3.779,0l-4.9,4.9L42.561,15.739Z" transform="translate(1032.682 177.273)" fill="#fff"/>
+              <rect id="Rectangle_21" data-name="Rectangle 21" width="1713.857" height="982.182" transform="translate(0 1482.796)" fill="#ededed"/>
+              <text id="Informatie" transform="translate(52.271 1765.599)" fill="#121212" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Informatie</tspan></text>
+              <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit._Vivamus_nec_sem_nibh._Vivamus_id_venenatis_quam._Donec_eu_turpis_eu_massa_pellentesque_aliquet_sit_amet_et_orci._Vestibulum_eget_turpis_consectetur_fermentum_tellus_non_faucibus_sem._Donec_et_sag" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec sem nibh. Vivamus id venenatis quam. 
+
+Donec eu turpis eu massa pellentesque aliquet sit amet et orci. Vestibulum eget turpis consectetur, fermentum tellus non, faucibus sem. Donec et sag" transform="translate(52.271 1836.292)" fill="#121212" font-size="30" font-family="ArialMT, Arial"><tspan x="0" y="27">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus nec sem nibh. Vivamus id venenatis quam. </tspan><tspan x="0" y="61"></tspan><tspan x="0" y="95">Donec eu turpis eu massa pellentesque aliquet sit amet et orci. Vestibulum eget turpis consectetur, fermentum tellus </tspan><tspan x="0" y="129">non, faucibus sem. Donec et sagittis ex. Suspendisse sed interdum mauris. Sed vestibulum urna eget ante lacinia </tspan><tspan x="0" y="163">ultrices.</tspan></text>
+              <text id="Trainer_" data-name="Trainer 
+" transform="translate(133.771 1572.98)" fill="#121212" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Trainer</tspan><tspan y="0" font-family="ArialMT, Arial" font-weight="400"> </tspan><tspan font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="500"><tspan x="0" y="34"></tspan></tspan></text>
+              <text id="Toegang_Betaling_via_lidmaatschap" data-name="Toegang
+Betaling via lidmaatschap" transform="translate(855.221 1572.98)" fill="#121212" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="0" y="0">Toegang</tspan><tspan font-family="ArialMT, Arial" font-weight="400"><tspan x="0" y="34">Betaling via lidmaatschap</tspan></tspan></text>
+              <path id="Icon_awesome-chalkboard-teacher" data-name="Icon awesome-chalkboard-teacher" d="M16.169,27.362a1.778,1.778,0,0,0-.549.085,10.254,10.254,0,0,1-3.182.537,10.263,10.263,0,0,1-3.183-.537,1.774,1.774,0,0,0-.548-.085A8.707,8.707,0,0,0,0,36.116,3.722,3.722,0,0,0,3.731,39.8H21.144a3.722,3.722,0,0,0,3.731-3.683A8.707,8.707,0,0,0,16.169,27.362Zm-3.731-2.487a7.462,7.462,0,1,0-7.462-7.462A7.462,7.462,0,0,0,12.437,24.875ZM46.018,0H16.169a3.8,3.8,0,0,0-3.731,3.855V7.462a9.837,9.837,0,0,1,4.975,1.384V4.975H44.774V27.362H39.8V22.387H29.85v4.975H23.923a9.907,9.907,0,0,1,3.085,4.975h19.01a3.8,3.8,0,0,0,3.731-3.855V3.855A3.8,3.8,0,0,0,46.018,0Z" transform="translate(52.272 1562.253)" fill="#121212"/>
+              <path id="Path_57" data-name="Path 57" d="M0,0,605.331,1.087,1712.319,3.075" transform="translate(1.537 1669.896)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.216"/>
+              <g id="Group_1638" data-name="Group 1638" transform="translate(-864.456 -67.948)">
+                <rect class="brandbutton" id="Rectangle_28" data-name="Rectangle 28" width="1606.917" height="111.05" rx="10" transform="translate(916.728 1350.773)" />
+                <text id="Aanmelden" transform="translate(1718.718 1420.163)" fill="#fff" font-size="30" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-80.852" y="0">Aanmelden</tspan></text>
+              </g>
+              <text id="Groepslessen" transform="translate(52.271 1164.578)" fill="#121212" font-size="30" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepslessen</tspan></text>
+              <text id="_1_2_Credits" data-name="1 / 2 Credits" transform="translate(1488.189 1154.494)" fill="#121212" font-size="30" font-family="ArialMT, Arial"><tspan x="0" y="0">1 / 2 Credits</tspan></text>
+              <text id="_01-09-2024_tot_01-10-2024" data-name="01-09-2024 tot 01-10-2024" transform="translate(1293.189 1197.652)" fill="#121212" font-size="30" font-family="ArialMT, Arial" opacity="0.439"><tspan x="0" y="0" class="year">01-09-{year} tot 01-10-{year}</tspan></text>
+              <text id="_2x_per_week" data-name="2x per week" transform="translate(52.271 1205.113)" fill="#121212" font-size="30" font-family="ArialMT, Arial"><tspan x="0" y="0">2x per week</tspan></text>
+              <path id="Icon_ionic-md-arrow-back-2" data-name="Icon ionic-md-arrow-back" d="M62.2,27.215H14.968L36.74,5.443,31.1,0,0,31.1,31.1,62.2l5.442-5.443L14.968,34.99H62.2Z" transform="translate(51.989 165.756)" fill="#fff"/>
+              <text id="Deelnemers_1_1" data-name="Deelnemers 1 / 1" transform="translate(52.271 2755.363)" fill="#121212" font-size="46" font-family="ArialMT, Arial"><tspan x="0" y="0">Deelnemers 1 / 1</tspan></text>
+              <line id="Line_1" data-name="Line 1" x2="1153.043" transform="translate(1.537 2636.031)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+              <path id="Icon_material-keyboard-arrow-right" data-name="Icon material-keyboard-arrow-right" d="M0,48.843l21.124-21.17L0,6.5,6.5,0,34.176,27.673,6.5,55.346Z" transform="translate(1060.446 2709.826)" fill="#121212"/>
+              <line id="Line_6" data-name="Line 6" x2="1153.043" transform="translate(1.537 2840.504)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+              <g id="Group_1636" data-name="Group 1636" transform="translate(-8 -0.166)">
+                <path id="Path_1517" data-name="Path 1517" d="M0,0H1715.442V136.837H0Z" transform="translate(8 103)" class="tabbarColor" />
+                <path id="Icon_ionic-md-arrow-back-3" data-name="Icon ionic-md-arrow-back" d="M50.583,25.492H16.71L32.323,9.879l-4.043-3.9-22.3,22.3,22.3,22.3,3.9-3.9L16.71,31.068H50.583Z" transform="translate(39.084 146.689)" fill="#fff"/>
+                <g id="Group_34" data-name="Group 34" transform="translate(725.221 118.036)">
+                  <text id="Event-3" data-name="Event" transform="translate(141.286 68.923)" fill="#fff" font-size="36" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-49.017" y="0">Event</tspan></text>
+                </g>
+              </g>
+              <g id="Event_afbeelding" data-name="Event afbeelding" transform="translate(0 519.909)">
+                <rect id="NoPath_-_kopie_2_" data-name="NoPath - kopie (2)" width="1714" height="569.664" fill="url(#pattern)"/>
+              </g>
+              <g id="Event_locatie" data-name="Event locatie" transform="translate(88.992 423.612)">
+                <text id="Health_Club_Kickfit" data-name="Health Club Kickfit" transform="translate(0 27)" fill="#121212" font-size="30" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+              </g>
+              <g id="Trainer_naam" data-name="Trainer naam" transform="translate(133.992 1580.612)">
+                <text id="Trainer" transform="translate(0 27)" fill="#070707" font-size="28" font-family="ArialMT, Arial"><tspan x="0" y="0">Tim</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path id="Path_1470" data-name="Path 1470" d="M11.7,0H2255.75a11.709,11.709,0,0,1,11.7,11.718V1690.935a11.709,11.709,0,0,1-11.7,11.718H11.7A11.709,11.709,0,0,1,0,1690.935V11.718A11.709,11.709,0,0,1,11.7,0Z" transform="translate(1705.16 5.095) rotate(90)" fill="none"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,277 @@
+<svg id="Rooster" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1866.16" height="2436.053" viewBox="0 0 1866.16 2436.053">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#272727"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="1" stop-color="#121212"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-5" x1="0.5" y1="1" x2="0.5" y2="0.164" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0"/>
+      <stop offset="1" stop-color="#35618f" stop-opacity="0.675"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_180" data-name="Rectangle 180" width="2277.642" height="1707.749" rx="14" transform="translate(1707.749) rotate(90)" fill="#070707"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1617" data-name="Group 1617" transform="translate(-1505.256 7946.328)">
+    <g id="iPad_Pro" data-name="iPad Pro" transform="translate(3371.416 -7946.328) rotate(90)">
+      <rect id="Shadow" width="2436.053" height="1866.16" rx="56" transform="translate(0 0)" fill="#fff"/>
+      <g id="iPad" transform="translate(0 0)">
+        <path id="Path_1468" data-name="Path 1468" d="M47.011,0H2389.042a47.011,47.011,0,0,1,47.011,47.011V1819.148a47.011,47.011,0,0,1-47.011,47.011H47.011A47.011,47.011,0,0,1,0,1819.148V47.011A47.011,47.011,0,0,1,47.011,0Z" transform="translate(0 0)" fill="#fff"/>
+        <rect id="Rectangle_2" data-name="Rectangle 2" width="2420.599" height="1850.705" rx="52" transform="translate(7.727 7.727)" fill="#141414"/>
+        <rect id="Rectangle_1" data-name="Rectangle 1" width="2277.642" height="1707.749" rx="14" transform="translate(79.206 79.206)" fill="#fff"/>
+      </g>
+      <g id="Camera" transform="translate(27.046 797.851)">
+        <g id="Group_3" data-name="Group 3">
+          <circle id="Ellipse_3" data-name="Ellipse 3" cx="17.387" cy="17.387" r="17.387" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4" data-name="Ellipse 4" cx="15.455" cy="15.455" r="15.455" transform="translate(1.932 1.932)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g id="Group_7" data-name="Group 7" transform="translate(7.727 121.888)">
+          <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="9.477" cy="9.477" r="9.477" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="8.424" cy="8.424" r="8.424" transform="translate(1.053 1.053)" fill="url(#linear-gradient-2)"/>
+          <path id="Path_9" data-name="Path 9" d="M5.587.007C1.838-.2-.149,4.287.009,5.666S2.577,9.484,5.587,9.083a7.525,7.525,0,0,0,5.674-3.96C12.266,3.405,9.336.217,5.587.007Z" transform="translate(3.905 3.566)" fill="url(#linear-gradient-5)"/>
+        </g>
+        <g id="Group_4" data-name="Group 4" transform="translate(0 175.798)">
+          <circle id="Ellipse_3-3" data-name="Ellipse 3" cx="17.387" cy="17.387" r="17.387" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-3" data-name="Ellipse 4" cx="15.455" cy="15.455" r="15.455" transform="translate(1.932 1.932)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g id="Group_5" data-name="Group 5" transform="translate(5.796 237.392)">
+          <circle id="Ellipse_3-4" data-name="Ellipse 3" cx="11.815" cy="11.815" r="11.815" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-4" data-name="Ellipse 4" cx="10.503" cy="10.503" r="10.503" transform="translate(1.313 1.313)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g id="Group_6" data-name="Group 6" transform="translate(13.523 74.799)">
+          <circle id="Ellipse_3-5" data-name="Ellipse 3" cx="4.407" cy="4.407" r="4.407" fill="url(#linear-gradient)"/>
+          <circle id="Ellipse_4-5" data-name="Ellipse 4" cx="3.917" cy="3.917" r="3.917" transform="translate(0.49 0.49)" fill="url(#linear-gradient-2)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_50" data-name="Group 50" transform="translate(1584.461 -7867.123)" >
+      <g id="Group_1618" data-name="Group 1618" transform="translate(-9.856 -109.205)">
+        <g id="Group_1534" data-name="Group 1534" transform="translate(0 0)">
+          <g id="Group_1628" data-name="Group 1628">
+            <path id="Path_1516" data-name="Path 1516" d="M0,0H1710.442V136.837H0Z" transform="translate(8 103)" class="tabbarColor" />
+            <path id="Icon_ionic-md-arrow-back" data-name="Icon ionic-md-arrow-back" d="M50.583,25.492H16.71L32.323,9.879l-4.043-3.9-22.3,22.3,22.3,22.3,3.9-3.9L16.71,31.068H50.583Z" transform="translate(39.084 146.689)" fill="#fff"/>
+            <path id="Icon_material-location-on" data-name="Icon material-location-on" d="M26.641,3A19.127,19.127,0,0,0,7.5,22.141C7.5,36.5,26.641,57.69,26.641,57.69S45.783,36.5,45.783,22.141A19.127,19.127,0,0,0,26.641,3Zm0,25.978a6.836,6.836,0,1,1,6.836-6.836A6.839,6.839,0,0,1,26.641,28.978Z" transform="translate(1627.213 144.1)" fill="#fff"/>
+            <g id="Group_34" data-name="Group 34" transform="translate(725.221 118.036)">
+              <text id="Alle_roosters" data-name="Alle roosters" transform="translate(141.286 47.923)" fill="#fff" font-size="36" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-110.039" y="0">Alle roosters</tspan></text>
+              <text id="_-_Wijzig_roosterkeuze_-" data-name="- Wijzig roosterkeuze -" transform="translate(140 82.923)" fill="#fff" font-size="28" font-family="ArialMT, Arial"><tspan x="-139.255" y="0">- Wijzig roosterkeuze -</tspan></text>
+            </g>
+          </g>
+          <g id="Group_1632" data-name="Group 1632" transform="translate(286.598 -267.212)">
+            <path id="Path_125" data-name="Path 125" d="M0,0H1724.922V68.574H0Z" transform="translate(-288.846 782.686)" class="divider" />
+            <text id="Woensdag_28_aug._2024" data-name="Woensdag, 28 aug. 2024" transform="translate(569.267 824.499)" fill="#ffffff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-138.498" y="0" class="year">Woensdag, 27 aug. {year}</tspan></text>
+          </g>
+          <g id="Group_1629" data-name="Group 1629" transform="translate(0 -40.318)">
+            <path id="Path_83" data-name="Path 83" d="M0,0H851.072V84.128H0Z" transform="translate(10.264 278.263)" fill="#e0e0e0"/>
+            <g id="Group_5-2" data-name="Group 5" transform="translate(341.396 303.163)">
+              <text id="Kalender" transform="translate(120.086 27.298)" fill="#121212" font-size="27" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-57.771" y="0">Kalender</tspan></text>
+              <g id="Icon_ionic-ios-calendar" data-name="Icon ionic-ios-calendar" transform="translate(0)">
+                <path id="Path_16" data-name="Path 16" d="M39.979,6.75H36.085V9.086a.781.781,0,0,1-.779.779H33.748a.781.781,0,0,1-.779-.779V6.75H14.278V9.086a.781.781,0,0,1-.779.779H11.942a.781.781,0,0,1-.779-.779V6.75H7.269a3.905,3.905,0,0,0-3.894,3.894V37.123a3.905,3.905,0,0,0,3.894,3.894h32.71a3.905,3.905,0,0,0,3.894-3.894V10.644A3.905,3.905,0,0,0,39.979,6.75Zm.779,29.205A1.953,1.953,0,0,1,38.811,37.9H8.437A1.953,1.953,0,0,1,6.49,35.955V18.432a.781.781,0,0,1,.779-.779h32.71a.781.781,0,0,1,.779.779Z" transform="translate(-3.375 -3.635)" fill="#121212"/>
+                <path id="Path_17" data-name="Path 17" d="M12.115,5.279a.781.781,0,0,0-.779-.779H9.779A.781.781,0,0,0,9,5.279V7.615h3.115Z" transform="translate(-1.212 -4.5)" fill="#121212"/>
+                <path id="Path_18" data-name="Path 18" d="M27.865,5.279a.781.781,0,0,0-.779-.779H25.529a.781.781,0,0,0-.779.779V7.615h3.115Z" transform="translate(4.845 -4.5)" fill="#121212"/>
+              </g>
+            </g>
+            <path id="Path_1493" data-name="Path 1493" d="M0,0H858.915V84.143H0Z" transform="translate(861.396 278.247)" fill="#ccc"/>
+            <g id="Group_8" data-name="Group 8" transform="translate(1121.435 327.743)">
+              <g id="Group_1630" data-name="Group 1630" transform="translate(22.961)">
+                <text id="Lijstweergave" transform="translate(171.389 4)" fill="#121212" font-size="27" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-89.292" y="0">Lijstweergave</tspan></text>
+                <g id="Icon_ionic-ios-list" data-name="Icon ionic-ios-list" transform="translate(27 -17.088)">
+                  <path id="Path_10" data-name="Path 10" d="M9.024,18.293a2.262,2.262,0,1,1-2.262-2.262A2.262,2.262,0,0,1,9.024,18.293Z" transform="translate(-4.5 -6.013)" fill="#121212"/>
+                  <path id="Path_11" data-name="Path 11" d="M9.024,9.575A2.262,2.262,0,1,1,6.762,7.313,2.262,2.262,0,0,1,9.024,9.575Z" transform="translate(-4.5 -7.312)" fill="#121212"/>
+                  <path id="Path_12" data-name="Path 12" d="M9.024,27.012A2.262,2.262,0,1,1,6.762,24.75,2.262,2.262,0,0,1,9.024,27.012Z" transform="translate(-4.5 -4.713)" fill="#121212"/>
+                  <path id="Path_13" data-name="Path 13" d="M33.063,16.875H13.633a1.293,1.293,0,1,0,0,2.585H33.063a1.293,1.293,0,1,0,0-2.585Z" transform="translate(-3.331 -5.887)" fill="#121212"/>
+                  <path id="Path_14" data-name="Path 14" d="M33.063,25.594H13.633a1.293,1.293,0,1,0,0,2.585H33.063a1.293,1.293,0,1,0,0-2.585Z" transform="translate(-3.331 -4.588)" fill="#121212"/>
+                  <path id="Path_15" data-name="Path 15" d="M13.633,10.742H33.063a1.293,1.293,0,1,0,0-2.585H13.633a1.293,1.293,0,1,0,0,2.585Z" transform="translate(-3.331 -7.187)" fill="#121212"/>
+                </g>
+              </g>
+            </g>
+          </g>
+          <g id="Group_6-2" data-name="Group 6" transform="translate(0 322.072)">
+            <rect id="Rectangle_12" data-name="Rectangle 12" width="1723.456" height="77.482" transform="translate(0.396)" fill="#070707" opacity="0.998"/>
+            <text id="Week_36_Augustus_2024" data-name="Week 36, Augustus 2024" transform="translate(862.396 45.827)" fill="#fff" font-size="24" font-family="Arial-BoldMT, Arial" font-weight="700"><tspan x="-139.395" y="0" class="year">Week 35, Augustus {year}</tspan></text>
+            <g id="Group_1631" data-name="Group 1631">
+              <path id="Icon_awesome-caret-left" data-name="Icon awesome-caret-left" d="M12.244,8.52V21.047c0,.867-1.354,1.3-2.146.688L2.009,15.472a.828.828,0,0,1,0-1.377L10.1,7.832c.792-.613,2.146-.179,2.146.688Z" transform="translate(643.219 24.263)" fill="#fff"/>
+              <path id="Icon_awesome-caret-left-2" data-name="Icon awesome-caret-left" d="M10.6.976V13.5c0,.867-1.354,1.3-2.146.688L.368,7.928a.828.828,0,0,1,0-1.377L8.457.287C9.249-.326,10.6.108,10.6.976Z" transform="translate(1079.931 46.286) rotate(180)" fill="#fff"/>
+            </g>
+          </g>
+          <g id="Group_9" data-name="Group 9" transform="translate(611.694 422.009)">
+            <rect id="Rectangle_13" data-name="Rectangle 13" width="80.379" height="82.009" rx="18" transform="translate(-21.662 -4)" fill="#e0e0e0"/>
+            <g id="Group_1527" data-name="Group 1527" transform="translate(-464.473 13.693)">
+              <text id="MA" transform="translate(13 16)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-18" y="0">MA</tspan></text>
+              <text id="_26" data-name="26" transform="translate(13.564 47.43)" fill="#121212" font-size="22" font-family="ArialMT, Arial"><tspan x="-12.235" y="0">25</tspan></text>
+            </g>
+            <g id="Group_1528" data-name="Group 1528" transform="translate(-226.473 13.693)">
+              <text id="DI" transform="translate(8.63 14)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-12" y="0">DI</tspan></text>
+              <text id="_27" data-name="27" transform="translate(9 47.43)" fill="#121212" font-size="22" font-family="ArialMT, Arial"><tspan x="-12.235" y="0">26</tspan></text>
+            </g>
+            <g id="Group_1529" data-name="Group 1529" transform="translate(3.527 13.693)">
+              <text id="WO" transform="translate(15 17)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-20.66" y="0">WO</tspan></text>
+              <text id="_28" data-name="28" transform="translate(16.063 46.43)" fill="#121212" font-size="22" font-family="ArialMT, Arial" opacity="0.28"><tspan x="-12.235" y="0">27</tspan></text>
+            </g>
+            <g id="Group_1530" data-name="Group 1530" transform="translate(244.527 13.693)">
+              <text id="DO" transform="translate(12 16)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-18" y="0">DO</tspan></text>
+              <text id="_29" data-name="29" transform="translate(13.129 46.43)" fill="#121212" font-size="22" font-family="ArialMT, Arial"><tspan x="-12.235" y="0">28</tspan></text>
+            </g>
+            <g id="Group_1531" data-name="Group 1531" transform="translate(480.527 13.693)">
+              <text id="VR" transform="translate(11 16)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-16.67" y="0">VR</tspan></text>
+              <text id="_30" data-name="30" transform="translate(11.499 46.43)" fill="#121212" font-size="22" font-family="ArialMT, Arial"><tspan x="-12.235" y="0">29</tspan></text>
+            </g>
+            <g id="Group_1532" data-name="Group 1532" transform="translate(714.527 13.693)">
+              <text id="ZA" transform="translate(11 17)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-15.334" y="0">ZA</tspan></text>
+              <text id="_31" data-name="31" transform="translate(11.499 46.43)" fill="#121212" font-size="22" font-family="ArialMT, Arial"><tspan x="-12.235" y="0">30</tspan></text>
+            </g>
+            <g id="Group_1533" data-name="Group 1533" transform="translate(947.527 13.693)">
+              <text id="ZO" transform="translate(12 17)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-16.664" y="0">ZO</tspan></text>
+              <text id="_1" data-name="1" transform="translate(12.803 46.43)" fill="#121212" font-size="22" font-family="ArialMT, Arial"><tspan x="-6.118" y="0">31</tspan></text>
+            </g>
+          </g>
+          <g id="Group_7-2" data-name="Group 7" transform="translate(8 584.047)">
+            <path id="Path_1494" data-name="Path 1494" d="M0,0H1711.511V158.229H0Z" fill="#fff"/>
+            <path id="Path_1483" data-name="Path 1483" d="M0,0H97.253V97.253H0Z" transform="translate(29.33 32.418)" fill="#f6e7cb"/>
+            <text id="_06:00_-_07:00" data-name="06:00 - 07:00" transform="translate(226.913 53.874)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-70.723" y="0">06:00 - 07:00</tspan></text>
+            <path id="Icon_material-location-on-2" data-name="Icon material-location-on" d="M14.147,3A6.642,6.642,0,0,0,7.5,9.647c0,4.985,6.647,12.344,6.647,12.344s6.647-7.359,6.647-12.344A6.642,6.642,0,0,0,14.147,3Zm0,9.021a2.374,2.374,0,1,1,2.374-2.374A2.375,2.375,0,0,1,14.147,12.021Z" transform="translate(148.817 103.217)" fill="#121212"/>
+            <path id="Icon_material-keyboard-arrow-right" data-name="Icon material-keyboard-arrow-right" d="M12.885,27.2l8.032-8.049L12.885,11.1l2.473-2.473L25.88,19.147,15.358,29.669Z" transform="translate(1632.048 65.472)" fill="#121212"/>
+            <line id="Line_1" data-name="Line 1" x2="858.597" transform="translate(0.772 158.229)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+            <text id="_1_1" data-name="1 / 1" transform="translate(59.956 87.544)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">1 / 1</tspan></text>
+            <g id="Event_afkorting" data-name="Event afkorting" transform="translate(327.244 28.374)">
+              <g id="Workout_naam_iPad" data-name="Workout naam iPad">
+                <g id="Workout_naam_iPad-2" data-name="Workout naam iPad" transform="translate(0 1)">
+                  <path id="Path_1484" data-name="Path 1484" d="M5.185,0h94.63C102.679,0,105,3.377,105,7.543V25.457C105,29.623,102.679,33,99.815,33H5.185C2.321,33,0,29.623,0,25.457V7.543C0,3.377,2.321,0,5.185,0Z" fill="#e0e0e0"/>
+                </g>
+                <text id="Groepsles" transform="translate(16 23)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+              </g>
+            </g>
+            <g id="Event_locatie" data-name="Event locatie" transform="translate(179.396 426.675)">
+              <text id="Health_Club_Kickfit" data-name="Health Club Kickfit" transform="translate(0 14)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+            </g>
+            <g id="Trainer_naam" data-name="Trainer naam" transform="translate(156.396 72.675)">
+              <text id="Trainer" transform="translate(0 17)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0" class="trainer">Trainer</tspan></text>
+            </g>
+            <g id="Workout_naam_iPad-3" data-name="Workout naam iPad" transform="translate(409.396 205.675)">
+              <g id="Workout_naam_iPad-4" data-name="Workout naam iPad" transform="translate(0 1)">
+                <path id="Path_1484-2" data-name="Path 1484" d="M5.185,0h94.63C102.679,0,105,3.377,105,7.543V25.457C105,29.623,102.679,33,99.815,33H5.185C2.321,33,0,29.623,0,25.457V7.543C0,3.377,2.321,0,5.185,0Z" fill="#e0e0e0"/>
+              </g>
+              <text id="Groepsles-2" data-name="Groepsles" transform="translate(16 23)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+            </g>
+          </g>
+          <g id="Group_7-3" data-name="Group 7" transform="translate(8 743.048)">
+            <rect id="Rectangle_142" data-name="Rectangle 142" width="1712.238" height="158.229" transform="translate(0 -0.001)" fill="#fff"/>
+            <path id="Path_1513" data-name="Path 1513" d="M0,0H97.253V97.253H0Z" transform="translate(29.33 32.417)" fill="#f6e7cb"/>
+            <text id="_07:00_-_08:00" data-name="07:00 - 08:00" transform="translate(226.913 53.874)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-70.723" y="0">07:00 - 08:00</tspan></text>
+            <path id="Icon_material-location-on-3" data-name="Icon material-location-on" d="M14.147,3A6.642,6.642,0,0,0,7.5,9.647c0,4.985,6.647,12.344,6.647,12.344s6.647-7.359,6.647-12.344A6.642,6.642,0,0,0,14.147,3Zm0,9.021a2.374,2.374,0,1,1,2.374-2.374A2.375,2.375,0,0,1,14.147,12.021Z" transform="translate(148.817 103.217)" fill="#121212"/>
+            <path id="Icon_material-keyboard-arrow-right-2" data-name="Icon material-keyboard-arrow-right" d="M12.885,27.2l8.032-8.049L12.885,11.1l2.473-2.473L25.88,19.147,15.358,29.669Z" transform="translate(1632.048 65.472)" fill="#121212"/>
+            <line id="Line_1-2" data-name="Line 1" x2="859.019" transform="translate(0.772 158.228)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+            <text id="_0_12" data-name="0 / 12" transform="translate(54.942 87.466)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">0 / 12</tspan></text>
+            <path id="Icon_awesome-user-friends" data-name="Icon awesome-user-friends" d="M10.5,14.505A6.128,6.128,0,1,0,4.377,8.378,6.124,6.124,0,0,0,10.5,14.505Zm4.2,1.751h-.454a8.46,8.46,0,0,1-7.5,0H6.3a6.3,6.3,0,0,0-6.3,6.3v1.576A2.627,2.627,0,0,0,2.626,26.76H18.383a2.627,2.627,0,0,0,2.626-2.626V22.559A6.3,6.3,0,0,0,14.706,16.256Zm11.555-1.751a5.252,5.252,0,1,0-5.252-5.252A5.254,5.254,0,0,0,26.261,14.505Zm2.626,1.751h-.208a6.9,6.9,0,0,1-4.836,0h-.208a6.077,6.077,0,0,0-3.047.843,8.007,8.007,0,0,1,2.172,5.46v2.1c0,.12-.027.235-.033.35h9.662a2.627,2.627,0,0,0,2.626-2.626,6.124,6.124,0,0,0-6.128-6.128Z" transform="translate(1571.064 68.235)" fill="#121212"/>
+            <g id="Workout_naam_iPad-5" data-name="Workout naam iPad" transform="translate(327.396 28.674)">
+              <g id="Workout_naam_iPad-6" data-name="Workout naam iPad" transform="translate(0 1)">
+                <path id="Path_1484-3" data-name="Path 1484" d="M5.185,0h94.63C102.679,0,105,3.377,105,7.543V25.457C105,29.623,102.679,33,99.815,33H5.185C2.321,33,0,29.623,0,25.457V7.543C0,3.377,2.321,0,5.185,0Z" fill="#e0e0e0"/>
+              </g>
+              <text id="Groepsles-3" data-name="Groepsles" transform="translate(16 23)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+            </g>
+          </g>
+          <g id="Group_7-4" data-name="Group 7" transform="translate(8 902.048)">
+            <rect id="Rectangle_142-2" data-name="Rectangle 142" width="1713.078" height="158.229" transform="translate(0 0)" fill="#fff"/>
+            <path id="Path_1495" data-name="Path 1495" d="M0,0H97.253V97.253H0Z" transform="translate(29.33 32.417)" fill="#f6e7cb"/>
+            <text id="_08:00_-_09:00" data-name="08:00 - 09:00" transform="translate(226.913 53.873)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-70.723" y="0">08:00 - 09:00</tspan></text>
+            <path id="Icon_material-location-on-4" data-name="Icon material-location-on" d="M14.147,3A6.642,6.642,0,0,0,7.5,9.647c0,4.985,6.647,12.344,6.647,12.344s6.647-7.359,6.647-12.344A6.642,6.642,0,0,0,14.147,3Zm0,9.021a2.374,2.374,0,1,1,2.374-2.374A2.375,2.375,0,0,1,14.147,12.021Z" transform="translate(148.817 103.217)" fill="#121212"/>
+            <path id="Icon_material-keyboard-arrow-right-3" data-name="Icon material-keyboard-arrow-right" d="M12.885,27.2l8.032-8.049L12.885,11.1l2.473-2.473L25.88,19.147,15.358,29.669Z" transform="translate(1632.048 65.472)" fill="#121212"/>
+            <line id="Line_1-3" data-name="Line 1" x2="859.44" transform="translate(0.772 158.228)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+            <text id="_0_4" data-name="0 / 4" transform="translate(54.942 87.466)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">0 / 4</tspan></text>
+            <g id="Trainer_naam-2" data-name="Trainer naam" transform="translate(156.396 70.673)">
+              <text id="Geen_Trainer" data-name="Geen Trainer" transform="translate(0 17)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Geen Trainer</tspan></text>
+            </g>
+          </g>
+          <g id="Group_7-5" data-name="Group 7" transform="translate(8 1061.049)">
+            <rect id="Rectangle_142-3" data-name="Rectangle 142" width="1713.078" height="158.229" transform="translate(0 0)" fill="#fff"/>
+            <path id="Path_1502" data-name="Path 1502" d="M0,0H97.253V97.253H0Z" transform="translate(29.33 32.417)" fill="#f6e7cb"/>
+            <text id="_09:00_-_10:00" data-name="09:00 - 10:00" transform="translate(226.913 53.874)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-70.723" y="0">09:00 - 10:00</tspan></text>
+            <path id="Icon_material-location-on-5" data-name="Icon material-location-on" d="M14.147,3A6.642,6.642,0,0,0,7.5,9.647c0,4.985,6.647,12.344,6.647,12.344s6.647-7.359,6.647-12.344A6.642,6.642,0,0,0,14.147,3Zm0,9.021a2.374,2.374,0,1,1,2.374-2.374A2.375,2.375,0,0,1,14.147,12.021Z" transform="translate(148.817 103.217)" fill="#121212"/>
+            <path id="Icon_material-keyboard-arrow-right-4" data-name="Icon material-keyboard-arrow-right" d="M12.885,27.2l8.032-8.049L12.885,11.1l2.473-2.473L25.88,19.147,15.358,29.669Z" transform="translate(1632.048 65.472)" fill="#121212"/>
+            <line id="Line_1-4" data-name="Line 1" x2="859.44" transform="translate(0.772 158.228)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+            <text id="_0_12-2" data-name="0 / 12" transform="translate(54.942 87.466)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">0 / 12</tspan></text>
+            <path id="Icon_awesome-user-friends-2" data-name="Icon awesome-user-friends" d="M10.5,14.505A6.128,6.128,0,1,0,4.377,8.378,6.124,6.124,0,0,0,10.5,14.505Zm4.2,1.751h-.454a8.46,8.46,0,0,1-7.5,0H6.3a6.3,6.3,0,0,0-6.3,6.3v1.576A2.627,2.627,0,0,0,2.626,26.76H18.383a2.627,2.627,0,0,0,2.626-2.626V22.559A6.3,6.3,0,0,0,14.706,16.256Zm11.555-1.751a5.252,5.252,0,1,0-5.252-5.252A5.254,5.254,0,0,0,26.261,14.505Zm2.626,1.751h-.208a6.9,6.9,0,0,1-4.836,0h-.208a6.077,6.077,0,0,0-3.047.843,8.007,8.007,0,0,1,2.172,5.46v2.1c0,.12-.027.235-.033.35h9.662a2.627,2.627,0,0,0,2.626-2.626,6.124,6.124,0,0,0-6.128-6.128Z" transform="translate(1571.064 68.234)" fill="#121212"/>
+            <g id="Event_locatie-2" data-name="Event locatie" transform="translate(179.396 -50.327)">
+              <text id="Health_Club_Kickfit-2" data-name="Health Club Kickfit" transform="translate(0 14)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+            </g>
+            <g id="Trainer_naam-3" data-name="Trainer naam" transform="translate(156.396 70.673)">
+              <text id="Trainer-2" data-name="Trainer" transform="translate(0 17)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">Trainer</tspan></text>
+            </g>
+            <g id="Event_locatie-3" data-name="Event locatie" transform="translate(179.396 104.673)">
+              <text id="Health_Club_Kickfit-3" data-name="Health Club Kickfit" transform="translate(0 14)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+            </g>
+          </g>
+          <g id="Group_7-6" data-name="Group 7" transform="translate(8 1220.049)">
+            <rect id="Rectangle_142-4" data-name="Rectangle 142" width="1711.398" height="158.229" transform="translate(0 0)" fill="#fff"/>
+            <rect id="Rectangle_14" data-name="Rectangle 14" width="97.253" height="97.253" transform="translate(29.33 32.418)" fill="#f6e7cb"/>
+            <text id="_10:00_-_11:00" data-name="10:00 - 11:00" transform="translate(226.913 53.874)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-69.832" y="0">10:00 - 11:00</tspan></text>
+            <path id="Icon_material-location-on-6" data-name="Icon material-location-on" d="M14.147,3A6.642,6.642,0,0,0,7.5,9.647c0,4.985,6.647,12.344,6.647,12.344s6.647-7.359,6.647-12.344A6.642,6.642,0,0,0,14.147,3Zm0,9.021a2.374,2.374,0,1,1,2.374-2.374A2.375,2.375,0,0,1,14.147,12.021Z" transform="translate(148.817 103.217)" fill="#121212"/>
+            <path id="Icon_material-keyboard-arrow-right-5" data-name="Icon material-keyboard-arrow-right" d="M12.885,27.2l8.032-8.049L12.885,11.1l2.473-2.473L25.88,19.147,15.358,29.669Z" transform="translate(1632.048 65.472)" fill="#121212"/>
+            <line id="Line_1-5" data-name="Line 1" x2="578.886" transform="translate(0.772 158.229)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+            <text id="_0_12-3" data-name="0 / 12" transform="translate(54.942 87.466)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">0 / 12</tspan></text>
+            <g id="Event_locatie-4" data-name="Event locatie" transform="translate(180.396 108.672)">
+              <text id="Health_Club_Kickfit-4" data-name="Health Club Kickfit" transform="translate(0 14)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+            </g>
+          </g>
+          <g id="Group_7-7" data-name="Group 7" transform="translate(8 1379.05)">
+            <rect id="Rectangle_142-5" data-name="Rectangle 142" width="1712.736" height="158.229" transform="translate(0 0)" fill="#fff"/>
+            <path id="Path_1503" data-name="Path 1503" d="M0,0H97.253V97.253H0Z" transform="translate(29.33 32.417)" fill="#f6e7cb"/>
+            <text id="_06:00_-_07:00-2" data-name="06:00 - 07:00" transform="translate(226.913 53.874)" fill="#121212" font-size="24" font-family="ArialMT, Arial"><tspan x="-70.723" y="0">06:00 - 07:00</tspan></text>
+            <path id="Icon_material-location-on-7" data-name="Icon material-location-on" d="M14.147,3A6.642,6.642,0,0,0,7.5,9.647c0,4.985,6.647,12.344,6.647,12.344s6.647-7.359,6.647-12.344A6.642,6.642,0,0,0,14.147,3Zm0,9.021a2.374,2.374,0,1,1,2.374-2.374A2.375,2.375,0,0,1,14.147,12.021Z" transform="translate(148.817 103.217)" fill="#121212"/>
+            <path id="Icon_material-keyboard-arrow-right-6" data-name="Icon material-keyboard-arrow-right" d="M12.885,27.2l8.032-8.049L12.885,11.1l2.473-2.473L25.88,19.147,15.358,29.669Z" transform="translate(1632.777 65.472)" fill="#121212"/>
+            <line id="Line_1-6" data-name="Line 1" x2="578.886" transform="translate(0.772 158.229)" fill="none" stroke="#b24343" stroke-width="1" opacity="0.272"/>
+            <text id="_0_12-4" data-name="0 / 12" transform="translate(54.942 87.466)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0">0 / 12</tspan></text>
+            <g id="Event_locatie-5" data-name="Event locatie" transform="translate(180.396 108.672)">
+              <text id="Health_Club_Kickfit-5" data-name="Health Club Kickfit" transform="translate(0 14)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+            </g>
+            <g id="Workout_naam_iPad-7" data-name="Workout naam iPad" transform="translate(322.396 -448.328)">
+              <g id="Workout_naam_iPad-8" data-name="Workout naam iPad" transform="translate(0 1)">
+                <path id="Path_1484-4" data-name="Path 1484" d="M5.185,0h94.63C102.679,0,105,3.377,105,7.543V25.457C105,29.623,102.679,33,99.815,33H5.185C2.321,33,0,29.623,0,25.457V7.543C0,3.377,2.321,0,5.185,0Z" fill="#e0e0e0"/>
+              </g>
+              <text id="Groepsles-4" data-name="Groepsles" transform="translate(16 23)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+            </g>
+          </g>
+          <g id="Trainer_naam-4" data-name="Trainer naam" transform="translate(163.396 811.722)">
+            <text id="Trainer-3" data-name="Trainer" transform="translate(0 17)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0" class="trainer">Trainer</tspan></text>
+          </g>
+          <g id="Trainer_naam-5" data-name="Trainer naam" transform="translate(163.396 1288.722)">
+            <text id="Trainer-4" data-name="Trainer" transform="translate(0 17)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0" class="trainer">Trainer</tspan></text>
+          </g>
+          <g id="Trainer_naam-6" data-name="Trainer naam" transform="translate(164.396 656.722)">
+            <text id="Trainer-5" data-name="Trainer" transform="translate(0 17)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0" class="trainer">Trainer</tspan></text>
+          </g>
+          <g id="Trainer_naam-7" data-name="Trainer naam" transform="translate(160.396 1447.722)">
+            <text id="Trainer-6" data-name="Trainer" transform="translate(0 17)" fill="#070707" font-size="18" font-family="ArialMT, Arial"><tspan x="0" y="0" class="trainer">Trainer</tspan></text>
+          </g>
+          <g id="Event_locatie-6" data-name="Event locatie" transform="translate(187.396 850.722)">
+            <text id="Health_Club_Kickfit-6" data-name="Health Club Kickfit" transform="translate(0 14)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+          </g>
+          <g id="Event_locatie-7" data-name="Event locatie" transform="translate(187.396 691.722)">
+            <text id="Health_Club_Kickfit-7" data-name="Health Club Kickfit" transform="translate(0 14)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0" class="brandname">SportBit Manager</tspan></text>
+          </g>
+          <g id="Workout_naam_iPad-9" data-name="Workout naam iPad" transform="translate(328.396 1088.722)">
+            <g id="Workout_naam_iPad-10" data-name="Workout naam iPad" transform="translate(0 1)">
+              <path id="Path_1484-5" data-name="Path 1484" d="M5.185,0h94.63C102.679,0,105,3.377,105,7.543V25.457C105,29.623,102.679,33,99.815,33H5.185C2.321,33,0,29.623,0,25.457V7.543C0,3.377,2.321,0,5.185,0Z" fill="#e0e0e0"/>
+            </g>
+            <text id="Groepsles-5" data-name="Groepsles" transform="translate(16 23)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+          </g>
+          <g id="Workout_naam_iPad-11" data-name="Workout naam iPad" transform="translate(328.396 1247.722)">
+            <g id="Workout_naam_iPad-12" data-name="Workout naam iPad" transform="translate(0 1)">
+              <path id="Path_1484-6" data-name="Path 1484" d="M5.185,0h94.63C102.679,0,105,3.377,105,7.543V25.457C105,29.623,102.679,33,99.815,33H5.185C2.321,33,0,29.623,0,25.457V7.543C0,3.377,2.321,0,5.185,0Z" fill="#e0e0e0"/>
+            </g>
+            <text id="Groepsles-6" data-name="Groepsles" transform="translate(16 23)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+          </g>
+          <g id="Workout_naam_iPad-13" data-name="Workout naam iPad" transform="translate(328.396 1405.722)">
+            <g id="Workout_naam_iPad-14" data-name="Workout naam iPad" transform="translate(0 1)">
+              <path id="Path_1484-7" data-name="Path 1484" d="M5.185,0h94.63C102.679,0,105,3.377,105,7.543V25.457C105,29.623,102.679,33,99.815,33H5.185C2.321,33,0,29.623,0,25.457V7.543C0,3.377,2.321,0,5.185,0Z" fill="#e0e0e0"/>
+            </g>
+            <text id="Groepsles-7" data-name="Groepsles" transform="translate(16 23)" fill="#121212" font-size="16" font-family="ArialMT, Arial"><tspan x="0" y="0">Groepsles</tspan></text>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
