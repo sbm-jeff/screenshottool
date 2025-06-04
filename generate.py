@@ -343,7 +343,7 @@ def main():
     config_paths = []
     for flavor in os.listdir(BASE_PATH):
         dir_path = os.path.join(BASE_PATH, flavor)
-        if os.path.isdir(dir_path) and flavor == 'adventurebikeriderclub': # not in EXCLUDED_DIRS:
+        if os.path.isdir(dir_path) and flavor not in EXCLUDED_DIRS:
             config_path = os.path.join(dir_path, 'config.json')
             if os.path.exists(config_path):
                 config_paths.append(config_path)
