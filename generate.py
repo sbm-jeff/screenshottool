@@ -310,8 +310,7 @@ def compose_and_crop_ipad(background_path, output_path, data):
         for i, (title, subtitle) in enumerate(texts, start=1):
             img_path = os.path.join(output_dir, f"ipad_{i}.png")
             if not os.path.exists(img_path):
-                print(f"Bestand niet gevonden: {img_path}, sla over.")
-                continue  # Skip deze iteratie als het bestand niet bestaat
+                continue
 
             img = Image.open(img_path).convert("RGBA")
             img = add_text_to_image(img, title, (100, 128), MAINFONT, 50, (0, 0, 0), 128)
@@ -353,7 +352,6 @@ def main():
                 config_paths.append(config_path)
 
     for path in config_paths:
-        print(f"Verwerk: {path}")
         process_config(path)
 
 if __name__ == "__main__":
