@@ -7,7 +7,13 @@ from datetime import datetime
 from bs4 import BeautifulSoup
 from io import BytesIO
 import requests
+import argparse
 
+# Voeg de flag toe
+parser = argparse.ArgumentParser(description="Screenshot tool met optionele flag")
+parser.add_argument('-f', '--flag', type=str, help='Kies een flavor')
+args = parser.parse_args()
+  
 BASE_PATH = '../download-assets'
 EXCLUDED_DIRS = {'.gitignore', 'yogibitdev', 'Development'}
 MAINFONT = "C:\\Users\\sbmpc\\AppData\\Local\\Microsoft\\Windows\\Fonts\\OGJ Type Design - Shapiro Pro 573 Black Caviar.ttf"
@@ -352,10 +358,13 @@ def main():
     config_paths = []
     for flavor in os.listdir(BASE_PATH):
         dir_path = os.path.join(BASE_PATH, flavor)
-        if os.path.isdir(dir_path) and flavor not in EXCLUDED_DIRS:
-            config_path = os.path.join(dir_path, 'config.json')
-            if os.path.exists(config_path):
-                config_paths.append(config_path)
+
+        # Voorbeeld: gebruik de flag in een conditie
+        if os.path.isdir(dir_path):
+            if (args.flag and flavor == args.flag) or (not args.flag and flavor not in EXCLUDED_DIRS):
+                config_path = os.path.join(dir_path, 'config.json')
+                if os.path.exists(config_path):
+                    config_paths.append(config_path)
 
     for path in config_paths:
         process_config(path)
