@@ -223,14 +223,17 @@ def compose_and_crop(background_path, output_path, data):
     background.save(output_path)
 
     # Croppen en tekst toevoegen
-    output_dir = f"./{data['urlScheme']}"
+    # output_dir = f"./{data['urlScheme']}"
+    output_dir = f"C:/Users/sbmpc/SportBit Manager/SBM - Documenten/Algemeen/Development/Flutter/builds/{data['urlScheme']}/screenshots_script"
     os.makedirs(output_dir, exist_ok=True)
 
     for model, target_size in formaten.items():
+        # "69": (1290, 2796),
+        # "65": (1242, 2688),
         if model == '69':
-            crops = [(1290, 20, 2580, 2796), (2650, 0, 3940, 2796), (4010, 0, 5300, 2796)]
+            crops = [(1290, 20, 2580, 2816), (2650, 0, 3940, 2796), (4010, 0, 5300, 2796)]
         elif model == '65':
-            crops = [(1338, 20, 2580, 2688), (2650, 0, 3892, 2688), (3962, 0, 5204, 2688)]
+            crops = [(1338, 20, 2580, 2708), (2650, 0, 3892, 2688), (3962, 0, 5204, 2688)]
         else:
             continue
 
@@ -286,17 +289,20 @@ def compose_and_crop_ipad(background_path, output_path, data):
     fallback_base_url = "https://demo.sportbitapp.nl"
     downloaded_image = safe_download_image(data, fallback_base_url)
     if downloaded_image:
-        background = paste_rotated_image(background, downloaded_image, (3225, 1175), 0, (1720, 600))
+        background = paste_rotated_image(background, downloaded_image, (3229, 1178), 0, (1714, 600))
 
     # Samengestelde afbeelding opslaan
     
     background.save(output_path)
 
-    output_dir = f"./{data['urlScheme']}"
+    # C:\Users\sbmpc\SportBit Manager\SBM - Documenten\Algemeen\Development\Flutter\builds\{data['urlScheme']}
+    # output_dir = f"./{data['urlScheme']}"
+    output_dir = f"C:/Users/sbmpc/SportBit Manager/SBM - Documenten/Algemeen/Development/Flutter/builds/{data['urlScheme']}/screenshots_script"
+
     os.makedirs(output_dir, exist_ok=True)
 
     # Crop box-waarden aanpassen aan iPad afmetingen  2048 2732
-    ipad_crops = [(1000, 100, 3048, 2732), (3050, 100, 5098, 2732)]
+    ipad_crops = [(1000, 100, 3048, 2832), (3050, 100, 5098, 2832)]
     for i, crop_box in enumerate(ipad_crops, start=1):
         cropped_path = os.path.join(output_dir, f"ipad_{i}.png")
         crop_image(output_path, crop_box=crop_box, output_path=cropped_path)
