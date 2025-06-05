@@ -22,7 +22,9 @@ project-root/
 ## 🐍 Vereisten
 
 * Python 3.x moet geïnstalleerd zijn.
-* De benodigde dependencies (zoals `cairosvg`, `BeautifulSoup` ); Installeer deze met:
+* De benodigde dependencies (zoals `cairosvg`, `BeautifulSoup` ); 
+Deze worden in de hoofd van generate.py bestand aangegeven met 'packages needed to install (pip install ...)'
+Installeer deze met:
 
 >
 > ```bash
@@ -32,14 +34,20 @@ project-root/
 ## ▶️ Gebruik
 
 Voer het script uit met het volgende commando in de terminal:
+alle flavors:
 
 ```bash
 $ ./generate.py
 ```
 
+met flavor
+```bash
+$ ./generate.py -f naamvanflavor
+```
+
 Dit script:
 
-1. Leest SVG-templates uit `./template.svg/` en `./template_2.svg/`
+1. Leest SVG-templates uit `./mockup1.svg/`, `./mockup2.svg/`, `./mockup_ipad1.svg/`, `./mockup_ipad2.svg/`
 2. Past de kleuren en eventueel teksten aan volgens de configuratie
 3. Genereert PNG-afbeeldingen in de bijbehorende appkleuren
 

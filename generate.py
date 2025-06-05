@@ -1,13 +1,14 @@
 #!/usr/bin/env python
 import json
 import os
-from PIL import Image, ImageDraw, ImageFont
-import cairosvg
 from datetime import datetime
-from bs4 import BeautifulSoup
 from io import BytesIO
+# packages needed to install (pip install ...)
 import requests
 import argparse
+import cairosvg
+from PIL import Image, ImageDraw, ImageFont
+from bs4 import BeautifulSoup
 
 # Voeg de flag toe
 parser = argparse.ArgumentParser(description="Screenshot tool met optionele flag")
