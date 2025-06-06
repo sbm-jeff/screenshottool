@@ -22,10 +22,7 @@ original_size = (5880, 3300)
 
 formaten = {
     "69": (1290, 2796),
-    "65": (1242, 2688),
-    # "61": (1170, 2532),
-    # "55": (1242, 2208),
-    # "SE": (640, 1136)
+    "65": (1242, 2688)
 }
 
 # left, top, right, bottom
@@ -256,12 +253,27 @@ def compose_and_crop(background_path, output_path, data):
 
         for i, (title, subtitle) in enumerate(texts, start=1):
             img_path = os.path.join(output_dir, f"{model}_{i}.png")
+            
             img = Image.open(img_path).convert("RGBA")
             img = add_text_to_image(img, title, (100, 128), MAINFONT, 50, (0, 0, 0), 128)
             img = add_text_to_image(img, title, (100, 125), MAINFONT, 50, (255, 255, 255), 128)
             img = add_text_to_image(img, subtitle, (100, 183), MAINFONT, 80, (0, 0, 0), 128)
             img = add_text_to_image(img, subtitle, (100, 180), MAINFONT, 80, (255, 255, 255))
+            
             img.save(img_path)
+        # Zet alle PNG's om naar JPG (verwijdert transparantie)
+        for i in range(1, 4):
+            img_path = os.path.join(output_dir, f"{model}_{i}.png")
+            img = Image.open(img_path).convert("RGBA")  # Zorg dat alpha aanwezig is
+
+            background = Image.new("RGB", img.size, (255, 255, 255))
+            background.paste(img, mask=img.split()[3])  # Verwijder transparantie
+
+            jpg_path = os.path.join(output_dir, f"{model}_{i}.jpg")
+            background.save(jpg_path, "JPEG", quality=95)
+            print(f"JPG opgeslagen: {jpg_path}")
+
+        # os.remove(img_path)
 
     # Tijdelijke bestanden opruimen
     for fname in [mockup1, mockup2, output_path]:
@@ -326,11 +338,20 @@ def compose_and_crop_ipad(background_path, output_path, data):
                 continue
 
             img = Image.open(img_path).convert("RGBA")
+
             img = add_text_to_image(img, title, (100, 128), MAINFONT, 50, (0, 0, 0), 128)
             img = add_text_to_image(img, title, (100, 125), MAINFONT, 50, (255, 255, 255), 128)
             img = add_text_to_image(img, subtitle, (100, 183), MAINFONT, 80, (0, 0, 0), 128)
             img = add_text_to_image(img, subtitle, (100, 180), MAINFONT, 80, (255, 255, 255))
-            img.save(img_path)
+
+            # Zet alpha-afbeelding om naar RGB met witte achtergrond
+            background = Image.new("RGB", img.size, (255, 255, 255))
+            background.paste(img, mask=img.split()[3])  # Gebruik alpha-kanaal als masker
+
+            # Opslaan als JPG
+            jpg_path = os.path.join(output_dir, f"ipad_{i}.jpg")
+            background.save(jpg_path, "JPEG", quality=95)
+            os.remove(img_path)
 
     for fname in [mockup1, mockup2, output_path]:
         if os.path.exists(fname):
